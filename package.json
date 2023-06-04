@@ -1,0 +1,18 @@
+{
+    "name": "MOOC_quiz_mod2-express_generator_entrega",
+    "author": "ging-moocs",
+    "license": "GNU",
+    "version": "0.1.7",
+    "info": {
+        "githubURL": "ging-moocs/MOOC_quiz_mod2-express_generator_entrega",
+        "serverUrl": "https://moocbot.dit.upm.es/",
+        "courseId": "1263",
+        "assignmentId": "557"
+    },
+    "dependencies": {
+        "autocorector": "^3.0.3",
+        "express-generator": "^4.16.1",
+        "moocauto": "^1.0.0",
+        "node": "^12.22.12"
+    }
+}
